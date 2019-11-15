@@ -20,6 +20,9 @@
   "publisher": "skyvow",
   "author": "skyvow",
   "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
   "keywords": [
     "weapp",
     "wxml",
