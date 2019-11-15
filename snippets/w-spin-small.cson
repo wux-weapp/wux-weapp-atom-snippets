@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Spin':
+		'prefix': 'w-spin:small'
+		'body': """
+<wux-spin ${1:size="${2:small}"} ${3:tip="${4}"} />
+		"""

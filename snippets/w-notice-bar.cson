@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: NoticeBar':
+		'prefix': 'w-notice-bar'
+		'body': """
+<wux-notice-bar ${1:content="${2}"}></wux-notice-bar>
+		"""

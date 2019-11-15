@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Progress':
+		'prefix': 'w-progress:shape'
+		'body': """
+<wux-progress ${1:status="${2:normal}"} ${3:status="${4:normal}"} percent="${5:0}" />
+		"""

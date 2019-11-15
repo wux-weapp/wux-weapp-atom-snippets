@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: NoticeBar':
+		'prefix': 'w-notice-bar:loop'
+		'body': """
+<wux-notice-bar loop ${1:speed="${2:25}"} ${3:content="${4}"}></wux-notice-bar>
+		"""

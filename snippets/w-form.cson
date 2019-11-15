@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: Form':
+		'prefix': 'w-form'
+		'body': """
+<wux-form id="${1:wux-form}" ${2:bind:change="${3:onFormChange}"}>
+	${0}
+</wux-form>
+		"""

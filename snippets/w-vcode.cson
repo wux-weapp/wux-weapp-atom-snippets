@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Vcode':
+		'prefix': 'w-vcode'
+		'body': """
+<wux-vcode width="${1:120}" height="${2:40}" num="${3:6}" />
+		"""

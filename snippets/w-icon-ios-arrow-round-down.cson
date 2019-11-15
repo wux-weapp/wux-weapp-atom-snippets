@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:ios-arrow-round-down'
+		'body': """
+<wux-icon type="${1:ios}-${2:arrow-round-down}" size="${3:32}" />
+		"""

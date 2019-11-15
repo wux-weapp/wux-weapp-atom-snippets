@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:logos'
+		'body': """
+<wux-icon type="logo-${2:android}" size="${3:32}" />
+		"""

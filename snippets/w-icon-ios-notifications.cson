@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:ios-notifications'
+		'body': """
+<wux-icon type="${1:ios}-${2:notifications}" size="${3:32}" />
+		"""

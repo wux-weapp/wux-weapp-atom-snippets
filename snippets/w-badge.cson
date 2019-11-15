@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: Badge':
+		'prefix': 'w-badge'
+		'body': """
+<wux-badge count="${1:0}" overflowCount="${2:99}" ${3:showZero}>
+	${0}
+</wux-badge>
+		"""

@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: Accordion Group':
+		'prefix': 'w-accordion-group:controlled'
+		'body': """
+<wux-accordion-group current="${1}" controlled ${2:bind:change="${3:onAccordionChange}"}>
+	${0}
+</wux-accordion-group>
+		"""

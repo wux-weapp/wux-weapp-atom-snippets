@@ -1,0 +1,15 @@
+".source.js":
+
+	'Wux Weapp: $wuxToast':
+		'prefix': 'wuxToast:default'
+		'body': """
+\$wuxToast().show({
+	type: '${1:default}',
+	duration: ${2:1500},
+	color: '${3:#fff}',
+	text: '${4}',
+	success() {
+		$5
+	},
+})
+		"""

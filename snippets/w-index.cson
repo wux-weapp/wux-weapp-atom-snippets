@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: Index':
+		'prefix': 'w-index'
+		'body': """
+<wux-index height="${1:300}" ${2:showIndicator}>
+	${0}
+</wux-index>
+		"""

@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Dialog':
+		'prefix': 'w-dialog'
+		'body': """
+<wux-dialog id="${1:wux-dialog}" />
+		"""

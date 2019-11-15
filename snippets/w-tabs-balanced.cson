@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: Tabs':
+		'prefix': 'w-tabs:balanced'
+		'body': """
+<wux-tabs ${1:theme="${2:balanced}"} defaultCurrent="${3}">
+	${0}
+</wux-tabs>
+		"""

@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Toast':
+		'prefix': 'w-toast'
+		'body': """
+<wux-toast id="${1:wux-toast}" />
+		"""

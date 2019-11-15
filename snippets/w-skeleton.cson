@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: Skeleton':
+		'prefix': 'w-skeleton'
+		'body': """
+<wux-skeleton ${1:active}>
+	${0}
+</wux-skeleton>
+		"""

@@ -1,0 +1,7 @@
+".source.js":
+
+	'Wux Weapp: $wuxBackdrop':
+		'prefix': 'wuxBackdrop:retain'
+		'body': """
+\$wuxBackdrop.${1:retain}()
+		"""

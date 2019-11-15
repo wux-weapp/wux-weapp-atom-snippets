@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Selectable':
+		'prefix': 'w-selectable:controlled-checkbox-balanced'
+		'body': """
+<wux-selectable ${1:type="${2:checkbox}"} ${3:color="${4:balanced}"} value="${5}" checked="${6}" controlled ${7:bind:change="${8:onSelectableChange}"} />
+		"""

@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: DatePicker':
+		'prefix': 'w-date-picker:controlled-datetime'
+		'body': """
+<wux-date-picker ${1:mode="${2:datetime}"} value="${3}" visible="${4}" controlled ${5:bind:visibleChange="${6:onDatePickerVisibleChange}"} ${7:bind:change="${8:onDatePickerChange}"} />
+		"""

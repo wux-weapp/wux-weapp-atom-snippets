@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Selectable':
+		'prefix': 'w-selectable:checkbox-dark'
+		'body': """
+<wux-selectable ${1:type="${2:checkbox}"} ${3:color="${4:dark}"} value="${5}" />
+		"""

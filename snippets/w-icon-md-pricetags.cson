@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:md-pricetags'
+		'body': """
+<wux-icon type="${1:md}-${2:pricetags}" size="${3:32}" />
+		"""

@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: InputNumber':
+		'prefix': 'w-input-number:controlled-assertive'
+		'body': """
+<wux-input-number ${1:color="${2:assertive}"} value="${3}" controlled ${4:bind:change="${5:onInputNumberChange}"} />
+		"""

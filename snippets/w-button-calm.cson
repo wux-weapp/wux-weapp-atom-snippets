@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Button':
+		'prefix': 'w-button:calm'
+		'body': """
+<wux-button ${1:theme="${2:calm}"}>${0}</wux-button>
+		"""

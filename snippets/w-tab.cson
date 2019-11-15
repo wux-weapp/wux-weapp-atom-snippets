@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Tab':
+		'prefix': 'w-tab'
+		'body': """
+<wux-tab ${1:key="${2}"} ${3:title="${4}"}></wux-tab>
+		"""

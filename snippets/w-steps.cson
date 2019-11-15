@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: Steps':
+		'prefix': 'w-steps'
+		'body': """
+<wux-steps>
+	${0}
+</wux-steps>
+		"""

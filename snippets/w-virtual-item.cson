@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: VirtualList':
+		'prefix': 'w-virtual-item'
+		'body': """
+<wux-virtual-item wx:for="{{ ${1:virtual.items} }}" wx:key="">
+	${0}
+</wux-virtual-item>
+		"""

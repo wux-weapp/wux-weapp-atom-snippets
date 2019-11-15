@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Image':
+		'prefix': 'w-image'
+		'body': """
+<wux-image ${1:shape="${2:normal}"} src="${3}" />
+		"""

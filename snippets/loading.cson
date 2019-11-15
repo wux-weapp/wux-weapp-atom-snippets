@@ -1,0 +1,9 @@
+".source.js":
+
+	'Wux Weapp: $wuxLoading':
+		'prefix': 'wuxLoading'
+		'body': """
+\$wuxLoading().show({
+	text: '${1:数据加载中}',
+})
+		"""

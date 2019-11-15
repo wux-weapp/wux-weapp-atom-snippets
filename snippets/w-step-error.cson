@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Step':
+		'prefix': 'w-step:error'
+		'body': """
+<wux-step ${1:status="${2:error}"} ${3:title="${4}"} ${5:content="${6}"} />
+		"""

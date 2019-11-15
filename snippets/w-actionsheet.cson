@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: ActionSheet':
+		'prefix': 'w-actionsheet'
+		'body': """
+<wux-actionsheet id="${1:wux-actionsheet}" />
+		"""

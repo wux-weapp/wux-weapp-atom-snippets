@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: TabBar':
+		'prefix': 'w-tabbar:balanced'
+		'body': """
+<wux-tabbar ${1:theme="${2:balanced}"} defaultCurrent="${3}">
+	${0}
+</wux-tabbar>
+		"""

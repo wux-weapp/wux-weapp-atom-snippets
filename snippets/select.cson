@@ -1,0 +1,14 @@
+".source.js":
+
+	'Wux Weapp: $wuxSelect':
+		'prefix': 'wuxSelect'
+		'body': """
+\$wuxSelect().open({
+	value: '${1}',
+	options: ${2:[]},
+	multiple: ${3:false},
+	onConfirm(value, index, options) {
+		$4
+	},
+})
+		"""

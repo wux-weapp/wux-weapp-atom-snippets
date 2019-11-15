@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Gallery':
+		'prefix': 'w-gallery'
+		'body': """
+<wux-gallery id="${1:wux-gallery}" />
+		"""

@@ -1,0 +1,12 @@
+".source.js":
+
+	'Wux Weapp: $wuxCalendar':
+		'prefix': 'wuxCalendar'
+		'body': """
+\$wuxCalendar().open({
+	value: '${1}',
+	onChange(values, displayValues) {
+		$2
+	},
+})
+		"""

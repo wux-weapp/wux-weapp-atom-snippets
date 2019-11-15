@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: VirtualList':
+		'prefix': 'w-virtual-list'
+		'body': """
+<wux-virtual-list id="${1:wux-virtual-list}" ${2:bind:change="${3:onVirtualListChange}"}>
+	${0}
+</wux-virtual-list>
+		"""

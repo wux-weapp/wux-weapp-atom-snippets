@@ -1,0 +1,10 @@
+".text.html":
+
+	'Wux Weapp: Pagination':
+		'prefix': 'w-pagination:number'
+		'body': """
+<wux-pagination ${1:mode="${2:number}"} defaultCurrent="${3}" total="${4}">
+	${5:<view slot="prev">${6:Prev}</view>}
+	${7:<view slot="next">${8:Next}</view>}
+</wux-pagination>
+		"""

@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: Spin':
+		'prefix': 'w-spin:nested-small'
+		'body': """
+<wux-spin ${1:size="${2:small}"} ${3:tip="${4}"} ${5:spinning} nested>
+	${0}
+</wux-spin>
+		"""

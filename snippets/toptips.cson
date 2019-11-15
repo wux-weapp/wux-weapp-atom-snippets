@@ -1,0 +1,14 @@
+".source.js":
+
+	'Wux Weapp: $wuxToptips':
+		'prefix': 'wuxToptips'
+		'body': """
+\$wuxToptips().show({
+	icon: '${1:success}',
+	duration: ${2:3000},
+	text: '${3}',
+	success() {
+		$4
+	},
+})
+		"""

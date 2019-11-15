@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:ios-add-circle-outline'
+		'body': """
+<wux-icon type="${1:ios}-${2:add-circle-outline}" size="${3:32}" />
+		"""

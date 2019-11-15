@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: WhiteSpace':
+		'prefix': 'w-white-space'
+		'body': """
+<wux-white-space ${1:size="${2:default}"} />
+		"""

@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: Index Item':
+		'prefix': 'w-index-item'
+		'body': """
+<wux-index-item name="${1}">
+	${0}
+</wux-index-item>
+		"""

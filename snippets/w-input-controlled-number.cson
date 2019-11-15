@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Input':
+		'prefix': 'w-input:controlled-number'
+		'body': """
+<wux-input value="${1}" ${2:type="${3:number}"} controlled ${4:bind:change="${5:onInputChange}"} />
+		"""

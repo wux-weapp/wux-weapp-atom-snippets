@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:md-today'
+		'body': """
+<wux-icon type="${1:md}-${2:today}" size="${3:32}" />
+		"""

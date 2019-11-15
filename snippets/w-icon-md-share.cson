@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:md-share'
+		'body': """
+<wux-icon type="${1:md}-${2:share}" size="${3:32}" />
+		"""

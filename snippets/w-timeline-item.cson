@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Timeline Item':
+		'prefix': 'w-timeline-item'
+		'body': """
+<wux-timeline-item ${1:content="${2}"}></wux-timeline-item>
+		"""

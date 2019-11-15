@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: KeyBoard':
+		'prefix': 'w-keyboard'
+		'body': """
+<wux-keyboard id="${1:wux-keyboard}" />
+		"""

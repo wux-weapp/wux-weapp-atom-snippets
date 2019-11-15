@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: CascaderPickerView':
+		'prefix': 'w-cascader-picker-view'
+		'body': """
+<wux-cascader-picker-view value="${1}" options="${2}" ${3:bind:valueChange="${4:onCascaderPickerViewChange}"} />
+		"""

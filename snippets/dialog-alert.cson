@@ -1,0 +1,13 @@
+".source.js":
+
+	'Wux Weapp: $wuxDialog':
+		'prefix': 'wuxDialog:alert'
+		'body': """
+\$wuxDialog().alert({
+	title: '${1}',
+	content: '${2}',
+	onConfirm(e) {
+		$3
+	},
+})
+		"""

@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:md-globe'
+		'body': """
+<wux-icon type="${1:md}-${2:globe}" size="${3:32}" />
+		"""

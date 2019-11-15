@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:ios-chatbubbles'
+		'body': """
+<wux-icon type="${1:ios}-${2:chatbubbles}" size="${3:32}" />
+		"""

@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:md-musical-notes'
+		'body': """
+<wux-icon type="${1:md}-${2:musical-notes}" size="${3:32}" />
+		"""

@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: Tabs':
+		'prefix': 'w-tabs:energized'
+		'body': """
+<wux-tabs ${1:theme="${2:energized}"} defaultCurrent="${3}">
+	${0}
+</wux-tabs>
+		"""

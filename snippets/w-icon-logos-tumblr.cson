@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:logos-tumblr'
+		'body': """
+<wux-icon type="logo-${2:tumblr}" size="${3:32}" />
+		"""

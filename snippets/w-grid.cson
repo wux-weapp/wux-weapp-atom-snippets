@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Grid':
+		'prefix': 'w-grid'
+		'body': """
+<wux-grid ${1:thumb="${2}"} ${3:label="${4}"}></wux-grid>
+		"""

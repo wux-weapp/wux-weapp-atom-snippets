@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:logos-nodejs'
+		'body': """
+<wux-icon type="logo-${2:nodejs}" size="${3:32}" />
+		"""

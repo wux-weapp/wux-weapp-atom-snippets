@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:logos-vimeo'
+		'body': """
+<wux-icon type="logo-${2:vimeo}" size="${3:32}" />
+		"""

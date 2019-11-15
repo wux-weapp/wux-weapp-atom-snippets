@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: SegmentedControl':
+		'prefix': 'w-segmented-control:controlled-stable'
+		'body': """
+<wux-segmented-control ${1:theme="${2:stable}"} current="${3}" values="${4}" controlled ${5:bind:change="${6:onSegmentChange}"} />
+		"""

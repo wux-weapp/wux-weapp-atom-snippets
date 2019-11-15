@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: Popover':
+		'prefix': 'w-popover:light-bottomRight'
+		'body': """
+<wux-popover ${1:theme="${2:light}"} ${3:placement="${4:bottomRight}"} ${5:title="${6}"} ${7:content="${8}"}>
+	${0}
+</wux-popover>
+		"""

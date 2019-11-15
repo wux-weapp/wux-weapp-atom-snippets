@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Badge Status':
+		'prefix': 'w-badge:status-warning'
+		'body': """
+<wux-badge ${1:status="${2:warning}"} ${3:text="${4}"} />
+		"""

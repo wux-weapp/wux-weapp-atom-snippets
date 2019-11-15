@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: FilterBar':
+		'prefix': 'w-filterbar'
+		'body': """
+<wux-filterbar items="${1}" ${2:bind:change="${3:onFilterBarChange}"} />
+		"""

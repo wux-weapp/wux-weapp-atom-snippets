@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: InputNumber':
+		'prefix': 'w-input-number:calm'
+		'body': """
+<wux-input-number ${1:color="${2:calm}"} defaultValue="${3}" />
+		"""

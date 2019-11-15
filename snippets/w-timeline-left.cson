@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: Timeline':
+		'prefix': 'w-timeline:left'
+		'body': """
+<wux-timeline ${1:position="${2:left}"} ${3:pending}>
+	${0}
+</wux-timeline>
+		"""

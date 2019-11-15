@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:logos-googleplus'
+		'body': """
+<wux-icon type="logo-${2:googleplus}" size="${3:32}" />
+		"""

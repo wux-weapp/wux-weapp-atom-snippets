@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Skeleton Paragraph':
+		'prefix': 'w-skeleton-paragraph'
+		'body': """
+<wux-skeleton-paragraph rows="${1:3}" ${2:rounded} />
+		"""

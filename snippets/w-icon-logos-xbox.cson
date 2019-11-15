@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:logos-xbox'
+		'body': """
+<wux-icon type="logo-${2:xbox}" size="${3:32}" />
+		"""

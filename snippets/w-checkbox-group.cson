@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: Checkbox Group':
+		'prefix': 'w-checkbox-group'
+		'body': """
+<wux-checkbox-group>
+	${0}
+</wux-checkbox-group>
+		"""

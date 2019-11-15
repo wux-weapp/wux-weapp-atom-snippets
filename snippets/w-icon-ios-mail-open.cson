@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:ios-mail-open'
+		'body': """
+<wux-icon type="${1:ios}-${2:mail-open}" size="${3:32}" />
+		"""

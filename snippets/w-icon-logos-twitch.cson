@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:logos-twitch'
+		'body': """
+<wux-icon type="logo-${2:twitch}" size="${3:32}" />
+		"""

@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Select':
+		'prefix': 'w-select'
+		'body': """
+<wux-select id="${1:wux-select}" />
+		"""

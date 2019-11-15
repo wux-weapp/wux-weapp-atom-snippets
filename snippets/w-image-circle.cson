@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Image':
+		'prefix': 'w-image:circle'
+		'body': """
+<wux-image ${1:shape="${2:circle}"} src="${3}" />
+		"""

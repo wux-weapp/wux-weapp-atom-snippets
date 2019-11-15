@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: Field':
+		'prefix': 'w-field:radio'
+		'body': """
+<wux-field name="${1}" ${2:initialValue="${3}"}>
+	<wux-radio-group ${4:options="${5}"}>${0}</wux-radio-group>
+</wux-field>
+		"""

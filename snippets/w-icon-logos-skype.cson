@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:logos-skype'
+		'body': """
+<wux-icon type="logo-${2:skype}" size="${3:32}" />
+		"""

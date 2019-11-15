@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Divider':
+		'prefix': 'w-divider:dashed'
+		'body': """
+<wux-divider ${1:position="${2:center}"} ${3:text="${4}"} dashed></wux-divider>
+		"""

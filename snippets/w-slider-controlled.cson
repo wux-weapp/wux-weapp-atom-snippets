@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Slider':
+		'prefix': 'w-slider:controlled'
+		'body': """
+<wux-slider value="${1}" min="${2:0}" max="${3:100}" step="${4:1}" controlled ${5:bind:change="${6:onSliderChange}"} />
+		"""

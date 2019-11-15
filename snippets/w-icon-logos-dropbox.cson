@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:logos-dropbox'
+		'body': """
+<wux-icon type="logo-${2:dropbox}" size="${3:32}" />
+		"""

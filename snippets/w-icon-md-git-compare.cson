@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:md-git-compare'
+		'body': """
+<wux-icon type="${1:md}-${2:git-compare}" size="${3:32}" />
+		"""

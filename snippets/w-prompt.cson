@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Prompt':
+		'prefix': 'w-prompt'
+		'body': """
+<wux-prompt ${1:icon="${2}"} ${3:title="${4}"} ${5:text="${6}"} ${7:buttons="${8}"} />
+		"""

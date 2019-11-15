@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Cascader':
+		'prefix': 'w-cascader'
+		'body': """
+<wux-cascader defaultValue="${1}" visible="${2}" ${3:title="${4}"} ${5:options="${6}"} />
+		"""

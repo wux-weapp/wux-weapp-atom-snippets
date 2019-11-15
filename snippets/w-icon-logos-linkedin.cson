@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:logos-linkedin'
+		'body': """
+<wux-icon type="logo-${2:linkedin}" size="${3:32}" />
+		"""

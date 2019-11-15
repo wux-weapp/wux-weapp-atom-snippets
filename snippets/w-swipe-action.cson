@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: SwipeAction':
+		'prefix': 'w-swipe-action'
+		'body': """
+<wux-swipe-action ${1:left="${2}"} ${3:right="${4}"}>
+	${0}
+</wux-swipe-action>
+		"""

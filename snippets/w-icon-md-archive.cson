@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:md-archive'
+		'body': """
+<wux-icon type="${1:md}-${2:archive}" size="${3:32}" />
+		"""

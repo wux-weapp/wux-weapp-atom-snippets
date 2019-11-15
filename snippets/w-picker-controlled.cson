@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Picker':
+		'prefix': 'w-picker:controlled'
+		'body': """
+<wux-picker value="${1}" options="${2}" visible="${3}" controlled ${4:bind:visibleChange="${5:onPickerVisibleChange}"} ${6:bind:change="${7:onPickerChange}"} />
+		"""

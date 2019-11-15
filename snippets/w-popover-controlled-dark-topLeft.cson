@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: Popover':
+		'prefix': 'w-popover:controlled-dark-topLeft'
+		'body': """
+<wux-popover ${1:theme="${2:dark}"} ${3:placement="${4:topLeft}"} ${5:title="${6}"} ${7:content="${8}"} visible="${9}" controlled ${10:bind:change="${11:onPopoverChange}"}>
+	${0}
+</wux-popover>
+		"""

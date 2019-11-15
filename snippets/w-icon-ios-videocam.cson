@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:ios-videocam'
+		'body': """
+<wux-icon type="${1:ios}-${2:videocam}" size="${3:32}" />
+		"""

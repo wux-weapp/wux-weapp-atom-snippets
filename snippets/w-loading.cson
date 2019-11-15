@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Loading':
+		'prefix': 'w-loading'
+		'body': """
+<wux-loading id="${1:wux-loading}" />
+		"""

@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Qrcode':
+		'prefix': 'w-qrcode'
+		'body': """
+<wux-qrcode width="${1:200}" height="${2:200}" data="${3}" />
+		"""

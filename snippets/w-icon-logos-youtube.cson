@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:logos-youtube'
+		'body': """
+<wux-icon type="logo-${2:youtube}" size="${3:32}" />
+		"""

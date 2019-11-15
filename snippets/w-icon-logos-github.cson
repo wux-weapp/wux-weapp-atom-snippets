@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:logos-github'
+		'body': """
+<wux-icon type="logo-${2:github}" size="${3:32}" />
+		"""

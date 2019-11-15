@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Tag':
+		'prefix': 'w-tag:controlled'
+		'body': """
+<wux-tag color="${1}" ${2:closable} visible="${3}" controlled ${4:bind:change="${5:onTagChange}"}>${0}</wux-tag>
+		"""

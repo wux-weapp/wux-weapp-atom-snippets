@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Switch':
+		'prefix': 'w-switch:energized'
+		'body': """
+<wux-switch ${1:color="${2:energized}"} value="${3}" />
+		"""

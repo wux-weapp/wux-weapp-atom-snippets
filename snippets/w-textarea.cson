@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Textarea':
+		'prefix': 'w-textarea'
+		'body': """
+<wux-textarea defaultValue="${1}" ${2:rows="${3:3}"} />
+		"""

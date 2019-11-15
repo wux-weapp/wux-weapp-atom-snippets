@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:logos-whatsapp'
+		'body': """
+<wux-icon type="logo-${2:whatsapp}" size="${3:32}" />
+		"""

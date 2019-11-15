@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: Radio Group':
+		'prefix': 'w-radio-group'
+		'body': """
+<wux-radio-group>
+	${0}
+</wux-radio-group>
+		"""

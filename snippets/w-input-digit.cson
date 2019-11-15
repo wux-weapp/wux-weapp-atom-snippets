@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Input':
+		'prefix': 'w-input:digit'
+		'body': """
+<wux-input defaultValue="${1}" ${2:type="${3:digit}"} />
+		"""

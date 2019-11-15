@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: Row':
+		'prefix': 'w-row'
+		'body': """
+<wux-row gutter="${1:0}">
+	${0}
+</wux-row>
+		"""

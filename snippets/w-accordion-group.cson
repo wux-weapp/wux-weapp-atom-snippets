@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: Accordion Group':
+		'prefix': 'w-accordion-group'
+		'body': """
+<wux-accordion-group>
+	${0}
+</wux-accordion-group>
+		"""

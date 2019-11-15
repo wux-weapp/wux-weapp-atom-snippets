@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Rater':
+		'prefix': 'w-rater:controlled'
+		'body': """
+<wux-rater value="${1}" max="${2:5}" controlled ${3:bind:change="${4:onRaterChange}"} />
+		"""

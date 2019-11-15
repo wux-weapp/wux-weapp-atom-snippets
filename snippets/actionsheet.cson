@@ -1,0 +1,18 @@
+".source.js":
+
+	'Wux Weapp: $wuxActionSheet':
+		'prefix': 'wuxActionSheet'
+		'body': """
+\$wuxActionSheet().showSheet({
+	theme: '${1:ios}',
+	titleText: '${2}',
+	buttons: ${3:[]},
+	buttonClicked(index, item) {
+		$4
+	},
+	cancelText: '${5:取消}',
+	cancel() {},
+	destructiveText: '${6:删除}',
+	destructiveButtonClicked() {},
+})
+		"""

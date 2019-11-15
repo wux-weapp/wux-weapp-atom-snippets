@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Calendar':
+		'prefix': 'w-calendar'
+		'body': """
+<wux-calendar id="${1:wux-calendar}" />
+		"""

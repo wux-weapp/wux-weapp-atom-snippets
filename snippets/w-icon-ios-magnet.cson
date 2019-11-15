@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:ios-magnet'
+		'body': """
+<wux-icon type="${1:ios}-${2:magnet}" size="${3:32}" />
+		"""

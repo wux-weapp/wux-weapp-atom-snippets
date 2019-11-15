@@ -1,0 +1,13 @@
+".source.js":
+
+	'Wux Weapp: $wuxToptips':
+		'prefix': 'wuxToptips:success'
+		'body': """
+\$wuxToptips().success({
+	duration: ${1:3000},
+	text: '${2}',
+	success() {
+		$3
+	},
+})
+		"""

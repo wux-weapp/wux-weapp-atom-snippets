@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:logos-foursquare'
+		'body': """
+<wux-icon type="logo-${2:foursquare}" size="${3:32}" />
+		"""

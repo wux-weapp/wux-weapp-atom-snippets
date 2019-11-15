@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: SwipeActionGroup':
+		'prefix': 'w-swipe-action-group'
+		'body': """
+<wux-swipe-action-group>
+	${0}
+</wux-swipe-action-group>
+		"""

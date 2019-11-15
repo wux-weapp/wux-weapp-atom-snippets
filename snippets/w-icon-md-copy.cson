@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:md-copy'
+		'body': """
+<wux-icon type="${1:md}-${2:copy}" size="${3:32}" />
+		"""

@@ -1,0 +1,15 @@
+".source.js":
+
+	'Wux Weapp: $wuxKeyBoard':
+		'prefix': 'wuxKeyBoard'
+		'body': """
+\$wuxKeyBoard().show({
+	titleText: '${1:安全键盘}',
+	cancelText: '${2:取消}',
+	inputText: '${3:输入数字密码}',
+	onClose(value) {
+		$4
+		return true
+	},
+})
+		"""

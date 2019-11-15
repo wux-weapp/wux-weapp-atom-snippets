@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:ios-share-alt'
+		'body': """
+<wux-icon type="${1:ios}-${2:share-alt}" size="${3:32}" />
+		"""

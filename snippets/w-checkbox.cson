@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Checkbox':
+		'prefix': 'w-checkbox'
+		'body': """
+<wux-checkbox ${1:color="${2:balanced}"} value="${3}" />
+		"""

@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Accordion':
+		'prefix': 'w-accordion'
+		'body': """
+<wux-accordion ${1:key="${2}"} ${3:title="${4}"} ${5:content="${6}"}></wux-accordion>
+		"""

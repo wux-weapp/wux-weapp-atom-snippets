@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: NavBar':
+		'prefix': 'w-navbar:royal'
+		'body': """
+<wux-navbar ${1:theme="${2:royal}"} ${3:leftText="${4}"} ${5:title="${6}"} ${7:rightText="${8}"}></wux-navbar>
+		"""

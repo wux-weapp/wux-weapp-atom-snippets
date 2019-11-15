@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:logos-xing'
+		'body': """
+<wux-icon type="logo-${2:xing}" size="${3:32}" />
+		"""

@@ -1,0 +1,28 @@
+{
+  "name": "wux-weapp-atom-snippets",
+  "description": "Wux Weapp Snippets for Atom.",
+  "version": "0.0.6",
+  "homepage": "https://github.com/wux-weapp/wux-weapp-atom-snippets/blob/master/README.md",
+  "bugs": {
+    "url": "https://github.com/wux-weapp/wux-weapp-atom-snippets/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wux-weapp/wux-weapp-atom-snippets.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "wux-weapp-snippets": "^0.0.6"
+  },
+  "scripts": {
+    "build": "node ./build/generateSinppet.js"
+  },
+  "publisher": "skyvow",
+  "author": "skyvow",
+  "license": "MIT",
+  "keywords": [
+    "weapp",
+    "wxml",
+    "snippet"
+  ]
+}

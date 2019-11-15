@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:md-qr-scanner'
+		'body': """
+<wux-icon type="${1:md}-${2:qr-scanner}" size="${3:32}" />
+		"""

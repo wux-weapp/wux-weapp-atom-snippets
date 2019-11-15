@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:ios-git-merge'
+		'body': """
+<wux-icon type="${1:ios}-${2:git-merge}" size="${3:32}" />
+		"""

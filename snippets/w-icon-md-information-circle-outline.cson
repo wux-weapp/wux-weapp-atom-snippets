@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:md-information-circle-outline'
+		'body': """
+<wux-icon type="${1:md}-${2:information-circle-outline}" size="${3:32}" />
+		"""

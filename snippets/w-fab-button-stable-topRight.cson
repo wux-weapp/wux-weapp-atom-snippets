@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: FabButton':
+		'prefix': 'w-fab-button:stable-topRight'
+		'body': """
+<wux-fab-button ${1:theme="${2:stable}"} ${3:position="${4:topRight}"} buttons="${5}" />
+		"""

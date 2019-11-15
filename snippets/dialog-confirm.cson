@@ -1,0 +1,16 @@
+".source.js":
+
+	'Wux Weapp: $wuxDialog':
+		'prefix': 'wuxDialog:confirm'
+		'body': """
+\$wuxDialog().confirm({
+	title: '${1}',
+	content: '${2}',
+	onConfirm(e) {
+		$3
+	},
+	onCancel(e) {
+		$4
+	},
+})
+		"""

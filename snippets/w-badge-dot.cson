@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: Badge Dot':
+		'prefix': 'w-badge:dot'
+		'body': """
+<wux-badge dot>
+	${0}
+</wux-badge>
+		"""

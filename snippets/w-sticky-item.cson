@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Sticky Item':
+		'prefix': 'w-sticky-item'
+		'body': """
+<wux-sticky-item ${1:title="${2}"} ${3:content="${4}"}></wux-sticky-item>
+		"""

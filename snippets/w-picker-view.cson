@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: PickerView':
+		'prefix': 'w-picker-view'
+		'body': """
+<wux-picker-view defaultValue="${1}" options="${2}" />
+		"""

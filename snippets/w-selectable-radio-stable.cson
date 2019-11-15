@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Selectable':
+		'prefix': 'w-selectable:radio-stable'
+		'body': """
+<wux-selectable ${1:type="${2:radio}"} ${3:color="${4:stable}"} value="${5}" />
+		"""

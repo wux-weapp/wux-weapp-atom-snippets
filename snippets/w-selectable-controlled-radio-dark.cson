@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Selectable':
+		'prefix': 'w-selectable:controlled-radio-dark'
+		'body': """
+<wux-selectable ${1:type="${2:radio}"} ${3:color="${4:dark}"} value="${5}" checked="${6}" controlled ${7:bind:change="${8:onSelectableChange}"} />
+		"""

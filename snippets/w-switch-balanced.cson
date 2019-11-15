@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Switch':
+		'prefix': 'w-switch:balanced'
+		'body': """
+<wux-switch ${1:color="${2:balanced}"} value="${3}" />
+		"""

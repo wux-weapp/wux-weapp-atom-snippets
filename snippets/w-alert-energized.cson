@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Alert':
+		'prefix': 'w-alert:energized'
+		'body': """
+<wux-alert ${1:theme="${2:energized}"} title="${3}" />
+		"""

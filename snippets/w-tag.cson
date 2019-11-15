@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Tag':
+		'prefix': 'w-tag'
+		'body': """
+<wux-tag color="${1}" ${2:closable}>${0}</wux-tag>
+		"""

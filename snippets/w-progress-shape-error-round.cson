@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Progress':
+		'prefix': 'w-progress:shape-error-round'
+		'body': """
+<wux-progress ${1:status="${2:error}"} ${3:status="${4:round}"} percent="${5:0}" />
+		"""

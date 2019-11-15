@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: TabBar':
+		'prefix': 'w-tabbar:controlled-positive'
+		'body': """
+<wux-tabbar ${1:theme="${2:positive}"} current="${3}" controlled ${4:bind:change="${5:onTabBarChange}"}>
+	${0}
+</wux-tabbar>
+		"""

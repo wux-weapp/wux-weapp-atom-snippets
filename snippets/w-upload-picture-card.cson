@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: Upload':
+		'prefix': 'w-upload:picture-card'
+		'body': """
+<wux-upload ${1:listType="${2:picture-card}"} url="${3}">
+	${0}
+</wux-upload>
+		"""

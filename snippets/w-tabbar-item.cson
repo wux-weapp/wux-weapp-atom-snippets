@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: TabBar Item':
+		'prefix': 'w-tabbar-item'
+		'body': """
+<wux-tabbar-item ${1:key="${2}"} ${3:title="${4}"}>
+	${0}
+</wux-tabbar-item>
+		"""

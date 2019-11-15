@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Divider':
+		'prefix': 'w-divider:left'
+		'body': """
+<wux-divider ${1:position="${2:left}"} ${3:text="${4}"}></wux-divider>
+		"""

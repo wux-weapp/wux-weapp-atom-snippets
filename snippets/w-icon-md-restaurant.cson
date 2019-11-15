@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:md-restaurant'
+		'body': """
+<wux-icon type="${1:md}-${2:restaurant}" size="${3:32}" />
+		"""

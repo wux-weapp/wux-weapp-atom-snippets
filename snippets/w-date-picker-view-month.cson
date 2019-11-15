@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: DatePickerView':
+		'prefix': 'w-date-picker-view:month'
+		'body': """
+<wux-date-picker-view ${1:mode="${2:month}"} value="${3}" ${4:bind:valueChange="${5:onDatePickerViewChange}"} />
+		"""

@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Skeleton Avatar':
+		'prefix': 'w-skeleton-avatar'
+		'body': """
+<wux-skeleton-avatar />
+		"""

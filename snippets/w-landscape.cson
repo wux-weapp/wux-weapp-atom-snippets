@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: Landscape':
+		'prefix': 'w-landscape'
+		'body': """
+<wux-landscape visible="${1}" bind:close="${2:onLandscapeClose}">
+	${0}
+</wux-landscape>
+		"""

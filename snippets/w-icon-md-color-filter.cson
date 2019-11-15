@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:md-color-filter'
+		'body': """
+<wux-icon type="${1:md}-${2:color-filter}" size="${3:32}" />
+		"""

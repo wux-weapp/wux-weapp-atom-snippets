@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: DatePicker':
+		'prefix': 'w-date-picker:year'
+		'body': """
+<wux-date-picker ${1:mode="${2:year}"} value="${3}" ${4:bind:change="${5:onDatePickerChange}"} />
+		"""

@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: Cell Group':
+		'prefix': 'w-cell-group'
+		'body': """
+<wux-cell-group>
+	${0}
+</wux-cell-group>
+		"""

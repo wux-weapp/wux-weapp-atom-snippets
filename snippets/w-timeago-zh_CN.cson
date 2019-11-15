@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Timeago':
+		'prefix': 'w-timeago:zh_CN'
+		'body': """
+<wux-timeago ${1:lang="${2:zh_CN}"} to="${3}" ${4:from="${5}"} ${6:refreshable} />
+		"""

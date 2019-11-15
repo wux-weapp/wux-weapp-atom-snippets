@@ -1,0 +1,18 @@
+".source.js":
+
+	'Wux Weapp: $wuxGallery':
+		'prefix': 'wuxGallery'
+		'body': """
+\$wuxGallery().show({
+	current: '${1}',
+	urls: ${2:[]},
+	delete(current, urls) {
+		$3
+		return true
+	},
+	onTap(current, urls) {
+		$4
+		return true
+	},
+})
+		"""

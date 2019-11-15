@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: SearchBar':
+		'prefix': 'w-search-bar:controlled'
+		'body': """
+<wux-search-bar value="${1}" placeholder="${2}" ${3:maxlength="${4:140}"} ${5:bind:change="${6:onSearchBarChange}"} />
+		"""

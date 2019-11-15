@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: Tabs':
+		'prefix': 'w-tabs:controlled-light'
+		'body': """
+<wux-tabs ${1:theme="${2:light}"} current="${3}" controlled ${4:bind:change="${5:onTabsChange}"}>
+	${0}
+</wux-tabs>
+		"""

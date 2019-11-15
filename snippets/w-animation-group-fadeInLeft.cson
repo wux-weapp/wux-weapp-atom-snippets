@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: AnimationGroup':
+		'prefix': 'w-animation-group:fadeInLeft'
+		'body': """
+<wux-animation-group ${1:classNames="wux-animate--${2:fadeInLeft}"} in="${3}">
+	${0}
+</wux-animation-group>
+		"""

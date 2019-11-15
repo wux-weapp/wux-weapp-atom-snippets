@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:md-radio-button-off'
+		'body': """
+<wux-icon type="${1:md}-${2:radio-button-off}" size="${3:32}" />
+		"""

@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Rater':
+		'prefix': 'w-rater'
+		'body': """
+<wux-rater defaultValue="${1}" max="${2:5}" />
+		"""

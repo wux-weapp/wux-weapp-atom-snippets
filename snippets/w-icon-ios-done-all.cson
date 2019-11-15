@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:ios-done-all'
+		'body': """
+<wux-icon type="${1:ios}-${2:done-all}" size="${3:32}" />
+		"""

@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:md-color-wand'
+		'body': """
+<wux-icon type="${1:md}-${2:color-wand}" size="${3:32}" />
+		"""

@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: WingBlank':
+		'prefix': 'w-wing-blank'
+		'body': """
+<wux-wing-blank ${1:size="${2:default}"}>
+	${0}
+</wux-wing-blank>
+		"""

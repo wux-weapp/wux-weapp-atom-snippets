@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: MultiPickerView':
+		'prefix': 'w-multi-picker-view'
+		'body': """
+<wux-multi-picker-view value="${1}" options="${2}" ${3:bind:valueChange="${4:onMultiPickerViewChange}"} />
+		"""

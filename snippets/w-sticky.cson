@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: Sticky':
+		'prefix': 'w-sticky'
+		'body': """
+<wux-sticky scrollTop="${1}">
+	${0}
+</wux-sticky>
+		"""

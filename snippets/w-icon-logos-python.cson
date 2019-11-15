@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:logos-python'
+		'body': """
+<wux-icon type="logo-${2:python}" size="${3:32}" />
+		"""

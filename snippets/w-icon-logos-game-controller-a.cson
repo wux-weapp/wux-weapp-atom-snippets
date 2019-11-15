@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:logos-game-controller-a'
+		'body': """
+<wux-icon type="logo-${2:game-controller-a}" size="${3:32}" />
+		"""

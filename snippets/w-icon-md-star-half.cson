@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:md-star-half'
+		'body': """
+<wux-icon type="${1:md}-${2:star-half}" size="${3:32}" />
+		"""

@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:logos-instagram'
+		'body': """
+<wux-icon type="logo-${2:instagram}" size="${3:32}" />
+		"""

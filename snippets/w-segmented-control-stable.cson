@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: SegmentedControl':
+		'prefix': 'w-segmented-control:stable'
+		'body': """
+<wux-segmented-control ${1:theme="${2:stable}"} defaultCurrent="${3}" values="${4}" />
+		"""

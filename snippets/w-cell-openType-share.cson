@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Cell':
+		'prefix': 'w-cell:openType-share'
+		'body': """
+<wux-cell title="${1}" openType="${2:share}" isLink />
+		"""

@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Toptips':
+		'prefix': 'w-toptips'
+		'body': """
+<wux-toptips id="${1:wux-toptips}" />
+		"""

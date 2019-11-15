@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: Field':
+		'prefix': 'w-field:slider'
+		'body': """
+<wux-field name="${1}" ${2:initialValue="${3}"}>
+	<wux-slider />
+</wux-field>
+		"""

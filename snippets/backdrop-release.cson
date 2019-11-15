@@ -1,0 +1,7 @@
+".source.js":
+
+	'Wux Weapp: $wuxBackdrop':
+		'prefix': 'wuxBackdrop:release'
+		'body': """
+\$wuxBackdrop.${1:release}()
+		"""

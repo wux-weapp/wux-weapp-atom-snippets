@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: Card':
+		'prefix': 'w-card'
+		'body': """
+<wux-card title="${1}" ${2:extra="${3}"}>
+	${0}
+</wux-card>
+		"""

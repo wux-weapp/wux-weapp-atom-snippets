@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Radio':
+		'prefix': 'w-radio:dark'
+		'body': """
+<wux-radio ${1:color="${2:dark}"} value="${3}" />
+		"""

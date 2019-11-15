@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:md-git-branch'
+		'body': """
+<wux-icon type="${1:md}-${2:git-branch}" size="${3:32}" />
+		"""

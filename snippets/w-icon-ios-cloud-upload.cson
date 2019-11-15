@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:ios-cloud-upload'
+		'body': """
+<wux-icon type="${1:ios}-${2:cloud-upload}" size="${3:32}" />
+		"""

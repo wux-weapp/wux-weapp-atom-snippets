@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:md-people'
+		'body': """
+<wux-icon type="${1:md}-${2:people}" size="${3:32}" />
+		"""

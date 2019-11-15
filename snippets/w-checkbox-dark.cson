@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Checkbox':
+		'prefix': 'w-checkbox:dark'
+		'body': """
+<wux-checkbox ${1:color="${2:dark}"} value="${3}" />
+		"""

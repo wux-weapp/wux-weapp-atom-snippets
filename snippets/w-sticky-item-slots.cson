@@ -1,0 +1,10 @@
+".text.html":
+
+	'Wux Weapp: Sticky Item':
+		'prefix': 'w-sticky-item:slots'
+		'body': """
+<wux-sticky-item>
+	${1:<view slot="title">${2}</view>}
+	${3:<view slot="content">${4}</view>}
+</wux-sticky-item>
+		"""

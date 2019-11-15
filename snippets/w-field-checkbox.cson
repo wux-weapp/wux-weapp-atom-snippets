@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: Field':
+		'prefix': 'w-field:checkbox'
+		'body': """
+<wux-field name="${1}" ${2:initialValue="${3}"}>
+	<wux-checkbox-group ${4:options="${5}"}>${0}</wux-checkbox-group>
+</wux-field>
+		"""

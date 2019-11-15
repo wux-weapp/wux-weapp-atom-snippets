@@ -1,0 +1,11 @@
+".source.js":
+
+	'Wux Weapp: $wuxDialog':
+		'prefix': 'wuxDialog'
+		'body': """
+\$wuxDialog().open({
+	title: '${1}',
+	content: '${2}',
+	buttons: ${3:[]},
+})
+		"""

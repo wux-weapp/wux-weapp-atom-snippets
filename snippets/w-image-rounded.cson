@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Image':
+		'prefix': 'w-image:rounded'
+		'body': """
+<wux-image ${1:shape="${2:rounded}"} src="${3}" />
+		"""

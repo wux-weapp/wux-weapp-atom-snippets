@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: Refresher':
+		'prefix': 'w-refresher'
+		'body': """
+<wux-refresher id="${1:wux-refresher}" ${2:bind:refresh="${3:onRefresh}"}>
+	${0}
+</wux-refresher>
+		"""

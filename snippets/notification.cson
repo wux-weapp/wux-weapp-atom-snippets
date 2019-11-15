@@ -1,0 +1,19 @@
+".source.js":
+
+	'Wux Weapp: $wuxNotification':
+		'prefix': 'wuxNotification'
+		'body': """
+\$wuxNotification().show({
+	image: '${1}',
+	title: '${2}',
+	text: '${3}',
+	data: ${4:''},
+	duration: ${5:3000},
+	onClick(data) {
+		$6
+	},
+	onClose(data) {
+		$7
+	},
+})
+		"""

@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Backdrop':
+		'prefix': 'w-backdrop'
+		'body': """
+<wux-backdrop id="${1:wux-backdrop}" />
+		"""

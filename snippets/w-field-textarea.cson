@@ -1,0 +1,9 @@
+".text.html":
+
+	'Wux Weapp: Field':
+		'prefix': 'w-field:textarea'
+		'body': """
+<wux-field name="${1}" ${2:initialValue="${3}"}>
+	<wux-textarea />
+</wux-field>
+		"""

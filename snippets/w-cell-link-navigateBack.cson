@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Cell':
+		'prefix': 'w-cell:link-navigateBack'
+		'body': """
+<wux-cell title="${1}" ${2:url="${3}"} ${4:openType="${5:navigateBack}"} isLink />
+		"""

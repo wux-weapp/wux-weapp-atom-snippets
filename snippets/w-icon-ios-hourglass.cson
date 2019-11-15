@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:ios-hourglass'
+		'body': """
+<wux-icon type="${1:ios}-${2:hourglass}" size="${3:32}" />
+		"""

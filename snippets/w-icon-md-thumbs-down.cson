@@ -1,0 +1,7 @@
+".text.html":
+
+	'Wux Weapp: Icon':
+		'prefix': 'w-icon:md-thumbs-down'
+		'body': """
+<wux-icon type="${1:md}-${2:thumbs-down}" size="${3:32}" />
+		"""
